@@ -1,0 +1,39 @@
+# ===== Python básico =====
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ===== Ambientes virtuais =====
+.venv/
+venv/
+env/
+ENV/
+virtualenv/
+pip-wheel-metadata/
+.pytest_cache/
+
+# ===== IDEs / editores =====
+.vscode/
+.idea/
+*.iml
+
+# ===== Sistema operacional =====
+.DS_Store
+Thumbs.db
+
+# ===== Jupyter / notebooks (se usar depois) =====
+.ipynb_checkpoints/
+
+# ===== Logs =====
+*.log
+
+# ===== Build / distribuição =====
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ===== Coverage =====
+.coverage
+htmlcov/
+coverage.xml
