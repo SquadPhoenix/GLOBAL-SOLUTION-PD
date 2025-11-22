@@ -188,7 +188,7 @@ def valor_portfolio_pd(capacidade: int, projetos: List[Projeto]):
 #
 # - valor_portfolio_guloso(...)
 #       Tempo:  O(n log n)
-#       Espaço: O(1) adicional
+#       Espaço: O(n) (Considerando que cria um item por projeto)
 #
 # - valor_portfolio_recursivo(...)
 #       Tempo:  Exponencial em n (aprox. O(2^n))

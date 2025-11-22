@@ -4,8 +4,9 @@ O projeto aplica diferentes abordagens algorítmicas para o problema clássico d
 - Estratégia **Gulosa** (não garante ótimo)
 - Solução **Recursiva Pura**
 - Solução **Recursiva com Memoização (Top-Down)**
-- **Programação Dinâmica Bottom-Up (PD)** com reconstrução do conjunto ótimo de projetos
-Tudo é executado via terminal, com exemplos de casos de teste já incluídos no bloco `if __name__ == "__main__"`.
+- **Programação Dinâmica Bottom-Up (PD)** com reconstrução do conjunto ótimo de projetos.
+
+- Tudo é executado via terminal, com exemplos de casos de teste já incluídos no bloco `if __name__ == "__main__"`.
 ## Integrantes
     Abner de Paiva Barbosa - RM558468
     Fernando Luiz S. Antonio - RM555201
@@ -76,10 +77,10 @@ Dentro de `portfolio.py`, o bloco principal define alguns cenários, por exemplo
 # Caso clássico em que o Guloso tende a falhar
 # Exemplo do enunciado
 projetos_exemplo = [
-    ("ProjetoA", 12, 4),
-    ("ProjetoB", 10, 3),
-    ("ProjetoC", 7, 2),
-    ("ProjetoD", 4, 3),
+    ("ProjetoA", 12, 4), # Exemplo enunciado
+    ("ProjetoB", 10, 3), # Caso no qual Guloso tende a falhar
+    ("ProjetoC", 7, 2), # Caso com capacidade pequena
+    ("ProjetoD", 4, 3), # Caso em que apenas um projeto cabe na capacidade
 ]
 capacidade_exemplo = 10
 
