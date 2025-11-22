@@ -62,7 +62,7 @@ portfolio-dp/
 ## Como Executar 🚀
 1. **Clonar o repositório:**
 ```bash
-git clone https://github.com/SEU-USUARIO/portfolio-dp.git
+git clone https://github.com/nandoantonio-git/portfolio-dp.git
 cd portfolio-dp
 ```
 2. **Executar o programa principal:**
