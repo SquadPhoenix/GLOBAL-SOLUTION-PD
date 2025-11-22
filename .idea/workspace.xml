@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53646813-7d5a-4e4f-a927-48b3d3b00036" name="Changes" comment="feat: implementa otimizador de portfólio de projetos com programação dinâmica">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="53646813-7d5a-4e4f-a927-48b3d3b00036" name="Changes" comment="Update repository URL in README" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,24 +20,43 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;nandoantonio-git&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/nandoantonio-git/GLOBAL-SOLUTION-PD.git&quot;,
+    &quot;accountId&quot;: &quot;2364a5f1-d8d3-42db-bcbc-d8c1f497dbce&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="35R9n38dLLP1P7vZQUI7r8f6K9u" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.Programação Dinamica.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Programação Dinamica.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/nando_mac/Desktop&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$USER_HOME$/Desktop" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -55,6 +72,23 @@
       <option name="presentableId" value="Default" />
       <updated>1763062181302</updated>
     </task>
+    <task id="LOCAL-00001" summary="git commit -m &quot;feat: cria GLOBAL SOLUTION - PD com abordagens de programação dinâmica&quot;">
+      <option name="closed" value="true" />
+      <created>1763177555504</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1763177555504</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Update repository URL in README">
+      <option name="closed" value="true" />
+      <created>1763777351913</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1763777351913</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -70,6 +104,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: implementa otimizador de portfólio de projetos com programação dinâmica" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: implementa otimizador de portfólio de projetos com programação dinâmica" />
+    <MESSAGE value="feat: cria GLOBAL SOLUTION - PD com abordagens de programação dinâmica" />
+    <MESSAGE value="git commit -m &quot;feat: cria GLOBAL SOLUTION - PD com abordagens de programação dinâmica&quot;" />
+    <MESSAGE value="Update repository URL in README" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update repository URL in README" />
   </component>
 </project>
